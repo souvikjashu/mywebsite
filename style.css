@@ -1,0 +1,56 @@
+body
+{
+   margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  
+}
+h1
+{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container
+{ background-color: lightblue;
+    position: relative;
+    padding-top: 100px;
+}
+.pro
+{
+    text-decoration: underline;
+}
+.bottom
+{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+.top
+{
+    position: absolute;
+right: 300px;
+top: 50px;
+}
+.profile-img
+{
+    width: 200px;
+}
+.web-logo
+{
+    width: 200px;
+}
+.gym
+{
+    width: 200px;
+}
