@@ -1,19 +1,28 @@
 body
 {
-   margin: 0;
+  margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
   
+ 
 }
 h1
 {
-    margin-top: 0;
+   
     font-family: 'Sacramento', cursive;
-
+    font-size: 4.44rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 220%;
 }
+
+
 h2
 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
 }
 
 h3
@@ -21,7 +30,7 @@ h3
     font-family: 'Montserrat', sans-serif;
 }
 .top-container
-{ background-color: lightblue;
+{ background-color: lightcyan;
     position: relative;
     padding-top: 100px;
 }
@@ -53,4 +62,12 @@ top: 50px;
 .gym
 {
     width: 200px;
+}
+.h3
+{
+    color: #11999E;
+}
+.footer-link
+{
+    color: #11999E;
 }
